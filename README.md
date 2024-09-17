@@ -26,8 +26,7 @@ Uso:
 Execute o aplicativo Flask:
 
 Bash
-python app.py
-Use o código com cuidado.
+python api.py
 
 Acesse a API para obter os picos de alta e baixa previstos para os próximos 7 dias:
 
