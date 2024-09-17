@@ -20,7 +20,6 @@ Bash
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-Use o código com cuidado.
 
 Uso:
 
