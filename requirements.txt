@@ -1,0 +1,7 @@
+Flask==3.0.3
+pandas
+numpy
+scikit-learn
+tensorflow
+matplotlib
+requests
