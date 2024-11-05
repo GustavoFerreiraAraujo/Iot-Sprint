@@ -41,3 +41,13 @@ O aplicativo obtém dados históricos de preços do Bitcoin da API do CoinGecko.
 Os dados são pré-processados, incluindo normalização e criação de janelas de dados para o modelo LSTM.
 O modelo LSTM é treinado para aprender o padrão temporal dos preços do Bitcoin.
 A API permite que você obtenha os preços previstos para os próximos 7 dias, juntamente com estimativas de picos altos e baixos com base em uma amplitude definida.
+
+
+CHATBOT
+Esta API utiliza Flask para fornecer um chatbot que responde a perguntas sobre economia e investimentos. O chatbot é integrado à API da OpenAI, utilizando o modelo GPT-3.5 para gerar respostas. A API também utiliza o Flask-CORS para permitir requisições de diferentes origens.
+
+Dependências
+Flask
+Flask-CORS
+OpenAI
+Configuração
