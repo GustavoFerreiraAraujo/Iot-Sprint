@@ -51,3 +51,4 @@ Flask
 Flask-CORS
 OpenAI
 Configuração
+
